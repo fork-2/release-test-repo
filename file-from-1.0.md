@@ -1,3 +1,3 @@
-this file is for the 1.0 release
+# this file is for the 1.0 release
 
 it really is.
